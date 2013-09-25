@@ -1,0 +1,780 @@
+TSuperDB
+v7
+r0
+t300994617.498102
+cCheck dependencies
+cProcessInfoPlistFile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/Info.plist" SuperDB-Info.plist
+cCompileXIB "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/MainWindow.xib"
+cCompileXIB "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.xib"
+cCpResource build/Debug-iphonesimulator/SuperDB.app/name_icon.png name_icon.png
+cCpResource build/Debug-iphonesimulator/SuperDB.app/secret_icon.png secret_icon.png
+cProcessPCH /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch.gch SuperDB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB.momd" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB.xcdatamodeld"
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/main.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDBAppDelegate.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroListViewController.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-NestedArrays.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroValueDisplay.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectAttributeEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectStringEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectDateEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectSingleSelectionListEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/Hero.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectColorEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/UIColorRGBValueTransformer.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSManagedObject-IsNew.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-Set.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor-SuperDB.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectFetchedPropertyDisplayer.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB" normal i386
+cGenerateDSYMFile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app.dSYM" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB"
+cTouch "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004ABDC9B10000000000185440
+t1253951921
+s1594432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004ABDC9A7000000000000046B
+t1253951911
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/objc/message.h
+c000000004748F47C00000000000017F1
+t1195963516
+s6129
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/objc/runtime.h
+c000000004748F47C0000000000004FE4
+t1195963516
+s20452
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m
+c000000004B118289000000000000077E
+t1259438729
+s1918
+i"ManagedObjectFetchedPropertyDisplayer.h"
+i"NSArray-Set.h"
+i"ManagedObjectEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.h
+c000000004B1182890000000000000416
+t1259438729
+s1046
+i<CoreData/CoreData.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m
+c000000004BB1F9600000000000000D2B
+t1269954912
+s3371
+i"Hero.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.h
+c000000004B5A7DFC0000000000000363
+t1264221692
+s867
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m
+c000000004BB26F6D0000000000003F8F
+t1269985133
+s16271
+i"HeroListViewController.h"
+i"SuperDBAppDelegate.h"
+i"ManagedObjectEditor.h"
+i"Hero.h"
+i"ManagedObjectEditor-SuperDB.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.xib
+c000000004B5A7DFC0000000000006287
+t1264221692
+s25223
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.h
+c000000004B1182890000000000000221
+t1259438729
+s545
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m
+c000000004BB1F9600000000000000E26
+t1269954912
+s3622
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.h
+c000000004B11828900000000000001F6
+t1259438729
+s502
+i<UIKit/UIKit.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m
+c000000004B1182890000000000001383
+t1259438729
+s4995
+i"ManagedObjectColorEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.h
+c000000004B1182890000000000000165
+t1259438729
+s357
+i<Foundation/Foundation.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m
+c000000004B1182890000000000000BE3
+t1259438729
+s3043
+i"ManagedObjectDateEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.h
+c000000004B11828900000000000000E4
+t1259438729
+s228
+i"ManagedObjectEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m
+c000000004B5A7DFC0000000000001D37
+t1264221692
+s7479
+i"ManagedObjectEditor-SuperDB.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.h
+c000000004B1182890000000000000262
+t1259438729
+s610
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m
+c000000004B11828900000000000039BD
+t1259438729
+s14781
+i"ManagedObjectEditor.h"
+i"NSArray-NestedArrays.h"
+i"HeroValueDisplay.h"
+i"ManagedObjectAttributeEditor.h"
+i"NSManagedObject-IsNew.h"
+i"NSArray-Set.h"
+i"SuperDBAppDelegate.h"
+i<objc/runtime.h>
+i<objc/message.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.h
+c000000004B118289000000000000011C
+t1259438729
+s284
+i<UIKit/UIKit.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m
+c000000004B1182890000000000000B9C
+t1259438729
+s2972
+i"ManagedObjectSingleSelectionListEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.h
+c000000004B11828900000000000000C9
+t1259438729
+s201
+i<UIKit/UIKit.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m
+c000000004BB26F6D0000000000000C59
+t1269985133
+s3161
+i"ManagedObjectStringEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.h
+c000000004B118289000000000000037E
+t1259438729
+s894
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m
+c000000004B1182890000000000001146
+t1259438729
+s4422
+i"SuperDBAppDelegate.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.h
+c000000004B1182890000000000000060
+t1259438729
+s96
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m
+c000000004B118289000000000000050B
+t1259438729
+s1291
+i"UIColorRGBValueTransformer.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.h
+c000000004B1182890000000000000247
+t1259438729
+s583
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m
+c000000004B11828900000000000003BC
+t1259438729
+s956
+i"HeroValueDisplay.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/MainWindow.xib
+c000000004B1182890000000000006E82
+t1259438729
+s28290
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/ManagedObjectFetchedPropertyDisplayer.h
+c000000004B1182890000000000000120
+t1259438729
+s288
+i<Foundation/Foundation.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.h
+c000000004B11828900000000000001BA
+t1259438729
+s442
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m
+c000000004B1182890000000000000224
+t1259438729
+s548
+i"NSArray-NestedArrays.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.h
+c000000004B1182890000000000000096
+t1259438729
+s150
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m
+c000000004B11828900000000000001F7
+t1259438729
+s503
+i"NSArray-Set.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.h
+c000000004B11828900000000000000DB
+t1259438729
+s219
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m
+c000000004B11828900000000000000BC
+t1259438729
+s188
+i"NSManagedObject-IsNew.h"
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB.xcdatamodeld
+c000000004BB26FD100000000000000CC
+t1269985233
+s204
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB_Prefix.pch
+c000000004B1182890000000000000162
+t1259438729
+s354
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app
+t1279112511
+s340
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app.dSYM
+t1279112510
+s102
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/HeroListViewController.nib
+t1279112501
+s2227
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/Info.plist
+t1279112486
+s591
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/MainWindow.nib
+t1279112500
+s3006
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/PkgInfo
+t1279112486
+s8
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB
+t1279112510
+s103568
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB.momd
+t1279112507
+s204
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/name_icon.png
+t1279112501
+s3476
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/secret_icon.png
+t1279112501
+s1607
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/Hero.o
+t1279112508
+s19676
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroListViewController.o
+t1279112507
+s81884
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroValueDisplay.o
+t1279112508
+s10872
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectAttributeEditor.o
+t1279112508
+s48024
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectColorEditor.o
+t1279112508
+s47176
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectDateEditor.o
+t1279112508
+s46528
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor-SuperDB.o
+t1279112509
+s46636
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor.o
+t1279112508
+s66804
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectFetchedPropertyDisplayer.o
+t1279112509
+s39896
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectSingleSelectionListEditor.o
+t1279112508
+s41788
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectStringEditor.o
+t1279112508
+s43368
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-NestedArrays.o
+t1279112508
+s7416
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-Set.o
+t1279112509
+s7904
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSManagedObject-IsNew.o
+t1279112508
+s10064
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDB.LinkFileList
+c000000004C3DB5250000000000000BE9
+t1279112485
+s3049
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDBAppDelegate.o
+t1279112507
+s48740
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/UIColorRGBValueTransformer.o
+t1279112508
+s10884
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/main.o
+t1279112507
+s6028
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m
+c000000004B118289000000000000015C
+t1259438729
+s348
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/name_icon.png
+c000000004B1182890000000000000D94
+t1259438729
+s3476
+
+N/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/secret_icon.png
+c000000004B1182890000000000000647
+t1259438729
+s1607
+
+N/var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch.gch
+t1279112506
+s13879536
+
+NSuperDB-Info.plist
+c000000004B118289000000000000038B
+t1259438729
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300994617#300994617#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/Hero.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.648162
+e300805308.725603
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/Hero.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m300805308#300805308#0(0"0(0#0#93"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m4300911832#2403"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/Hero.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/Hero.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroListViewController.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805307.854471
+e300805307.994759
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroListViewController.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m300805307#300805307#0(0"0(0#0#111"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m4300911832#2439"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroListViewController.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroValueDisplay.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.065961
+e300805308.133851
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroValueDisplay.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m300805308#300805308#0(0"0(0#0#97"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m4300911832#2419"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/HeroValueDisplay.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/HeroValueDisplay.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectAttributeEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.257299
+e300805308.376220
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectAttributeEditor.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@125"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m300805308#300805308#0(0"0(0#0#117"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m4300911832#2451"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectAttributeEditor.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectAttributeEditor.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectColorEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.725700
+e300805308.810637
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectColorEditor.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m300805308#300805308#0(0"0(0#0#113"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m4300911832#2443"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectColorEditor.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectColorEditor.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectDateEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.451049
+e300805308.564767
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectDateEditor.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m300805308#300805308#0(0"0(0#0#112"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m4300911832#2441"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectDateEditor.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectDateEditor.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor-SuperDB.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805309.035775
+e300805309.120028
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor-SuperDB.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m300805309#300805309#0(0"0(0#0#116"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m4300911832#2449"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor-SuperDB.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor-SuperDB.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.133936
+e300805308.257204
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m300805308#300805308#0(0"0(0#0#108"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m4300911832#2433"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectEditor.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectEditor.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectFetchedPropertyDisplayer.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805309.120119
+e300805309.206252
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectFetchedPropertyDisplayer.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@137"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m300805309#300805309#0(0"0(0#0#129"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m4300911832#2472"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/../ManagedObjectFetchedPropertyDisplayer.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectFetchedPropertyDisplayer.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectSingleSelectionListEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.564938
+e300805308.648078
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectSingleSelectionListEditor.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m300805308#300805308#0(0"0(0#0#127"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m4300911832#2471"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectSingleSelectionListEditor.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectSingleSelectionListEditor.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectStringEditor.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.376370
+e300805308.450953
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectStringEditor.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m300805308#300805308#0(0"0(0#0#114"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m4300911832#2445"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/ManagedObjectStringEditor.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/ManagedObjectStringEditor.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-NestedArrays.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805307.994856
+e300805308.065871
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-NestedArrays.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m300805307#300805308#0(0"0(0#0#101"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m4300911832#2427"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-NestedArrays.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-NestedArrays.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-Set.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.969276
+e300805309.035691
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-Set.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m300805308#300805309#0(0"0(0#0#92"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m4300911832#2409"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSArray-Set.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSArray-Set.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSManagedObject-IsNew.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.892381
+e300805308.969185
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSManagedObject-IsNew.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m300805308#300805308#0(0"0(0#0#102"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m4300911832#2429"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/NSManagedObject-IsNew.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/NSManagedObject-IsNew.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDBAppDelegate.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805307.751667
+e300805307.854373
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDBAppDelegate.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m300805307#300805307#0(0"0(0#0#107"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m4300911832#2431"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/SuperDBAppDelegate.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDBAppDelegate.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/UIColorRGBValueTransformer.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805308.810857
+e300805308.892289
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/UIColorRGBValueTransformer.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@123"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m300805308#300805308#0(0"0(0#0#115"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m4300911832#2447"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/UIColorRGBValueTransformer.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/UIColorRGBValueTransformer.o"0#
+
+CCompileC build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/main.o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805307.287068
+e300805307.751583
+r1
+xCompileC
+xbuild/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/main.o
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m300805307#300805307#0(0"0(0#0#85"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m4300911832#2395"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/main.m" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.xib"
+s300805300.785860
+e300805301.527901
+r1
+xCompileXIB
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@45"CompileXIB Classes/HeroListViewController.xib300805300#300805301#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#113"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.xib4300911832#640"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/HeroListViewController.nib" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/Classes/HeroListViewController.xib"0#
+
+CCompileXIB "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/MainWindow.xib"
+s300805286.156480
+e300805300.785644
+r1
+xCompileXIB
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib300805286#300805300#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#93"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/MainWindow.xib4300911832#608"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/MainWindow.nib" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/MainWindow.xib"0#
+
+CCpResource build/Debug-iphonesimulator/SuperDB.app/name_icon.png name_icon.png
+s300805301.527980
+e300805301.581871
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SuperDB.app/name_icon.png
+xname_icon.png
+lSLF07#2@18"Copy name_icon.png300805301#300805301#0(0"0(0#0#92"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/name_icon.png4300911832#583"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/name_icon.png" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app"0#
+
+CCpResource build/Debug-iphonesimulator/SuperDB.app/secret_icon.png secret_icon.png
+s300805301.529307
+e300805301.586536
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SuperDB.app/secret_icon.png
+xsecret_icon.png
+lSLF07#2@20"Copy secret_icon.png300805301#300805301#0(0"0(0#0#94"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/secret_icon.png4300911832#585"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/secret_icon.png" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app"0#
+
+CDataModelVersionCompile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB.momd" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB.xcdatamodeld"
+s300805306.831471
+e300805307.286892
+r1
+xDataModelVersionCompile
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB.momd
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB.xcdatamodeld
+lSLF07#2@97"DataModelVersionCompile build/Debug-iphonesimulator/SuperDB.app/SuperDB.momd SuperDB.xcdatamodeld300805306#300805307#0(0"0(0#0#99"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB.xcdatamodeld4300911832#512"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB.xcdatamodeld" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB.momd"0#
+
+CGenerateDSYMFile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app.dSYM" "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB"
+s300805310.615211
+e300805310.936502
+r1
+xGenerateDSYMFile
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app.dSYM
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/SuperDB.app.dSYM build/Debug-iphonesimulator/SuperDB.app/SuperDB300805310#300805310#0(0"0(0#0#126"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB4300911832#509"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB" -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app.dSYM"0#
+
+CLd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB" normal i386
+s300805309.206339
+e300805310.614997
+r1
+xLd
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB
+xnormal
+xi386
+old: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found
+lSLF07#2@131"Link /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB300805309#300805310#0(118"ld: warning: directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found1(22@104"Directory '/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks' following -F not found300805310#0#118#0(6@0"300805310#0#0#0#0#0"0(0#0#0"4300911832#1168"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/Objects-normal/i386/SuperDB.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/SuperDB"0#
+
+CProcessInfoPlistFile "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/Info.plist" SuperDB-Info.plist
+s300805286.074242
+e300805286.156110
+r1
+xProcessInfoPlistFile
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/Info.plist
+xSuperDB-Info.plist
+lSLF07#2@26"Process SuperDB-Info.plist300805286#300805286#0(0"0(0#0#97"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB-Info.plist7521981564870226944#605"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SuperDB-Info.plist -genpkginfo "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app/Info.plist"0#
+
+CProcessPCH /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch.gch SuperDB_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300805301.586878
+e300805306.831310
+r1
+xProcessPCH
+x/var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch.gch
+xSuperDB_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile SuperDB_Prefix.pch300805301#300805306#0(0"0(0#0#97"/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB_Prefix.pch4300911832#2245"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-generated-files.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-own-target-headers.hmap" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-all-target-headers.hmap" -iquote "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/SuperDB-project-headers.hmap" "-F/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator" "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/include" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources/i386" "-I/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/SuperDB.build/Debug-iphonesimulator/SuperDB.build/DerivedSources" -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/SuperDB_Prefix.pch" -o /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-bpujzpnsszaoqtejyghjavcjrljs/SuperDB_Prefix.pch.gch0#
+
+CTouch "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app"
+s300805310.936626
+e300805311.024117
+r1
+xTouch
+x/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app
+lSLF07#2@124"Touch /Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app300805310#300805311#0(0"0(0#0#0"4300911832#362"    cd "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/J1NEIDIG/Documents/More iPhone 3 Development March 30 2009/07 - SuperDB/build/Debug-iphonesimulator/SuperDB.app"0#
+

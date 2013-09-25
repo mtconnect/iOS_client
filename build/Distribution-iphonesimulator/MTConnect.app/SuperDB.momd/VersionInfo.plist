@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>SuperDB</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>SuperDB</key>
+		<dict>
+			<key>Hero</key>
+			<data>
+			nNcRi2+BxPH9gnG6tnvof50CqZk4sfXTnNWHiVtal2g=
+			</data>
+			<key>Power</key>
+			<data>
+			+uIw3zyMAHrMLA1t0g0S5BCq2PSAY6G0QdyN8IFjmXA=
+			</data>
+		</dict>
+		<key>SuperDB 2</key>
+		<dict>
+			<key>Hero</key>
+			<data>
+			U7Blb8/YUH8wTWeOp3Npz8ikRqp6mAeoeiR4SK3WBcU=
+			</data>
+		</dict>
+		<key>SuperDB 3</key>
+		<dict>
+			<key>Hero</key>
+			<data>
+			N3nTDURQCrn5MaOKL+/UcoxTHp9kHToM4j3QgaeMYoQ=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

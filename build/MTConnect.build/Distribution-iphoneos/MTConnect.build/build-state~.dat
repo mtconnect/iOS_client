@@ -1,0 +1,1029 @@
+TMTConnect
+v7
+r0
+t301239747.212571
+cCheck dependencies
+cCpResource build/Distribution-iphoneos/MTConnect.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Info.plist SuperDB-Info.plist
+cCompileXIB /Users/J1NEIDIG/Documents/MTConnect/MainWindow.xib
+cCompileXIB /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.xib
+cCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/name_icon.png name_icon.png
+cCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/secret_icon.png secret_icon.png
+cCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Default.png Default.png
+cCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/icon.png icon.png
+cCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Background.png Background.png
+cCopyPlistFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Entitlements.plist Entitlements.plist
+cProcessPCH /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch.gch SuperDB_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/SuperDB.momd /Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/main.o /Users/J1NEIDIG/Documents/MTConnect/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/SuperDBAppDelegate.o /Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroListViewController.o /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-NestedArrays.o /Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroValueDisplay.o /Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectAttributeEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectStringEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectDateEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectSingleSelectionListEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/Hero.o /Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectColorEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/UIColorRGBValueTransformer.o /Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSManagedObject-IsNew.o /Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-Set.o /Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor-SuperDB.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectFetchedPropertyDisplayer.o /Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect normal armv6
+cGenerateDSYMFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app.dSYM /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect
+cProcessProductPackaging "/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision" /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision
+cTouch /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+cProcessProductPackaging /Users/J1NEIDIG/Documents/MTConnect/Entitlements.plist /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent
+cCodeSign /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B47D28D0000000000000110
+t1262998157
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004A12206500000000002C8850
+t1242701925
+s2918480
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A0BAF7C000000000000046B
+t1242279804
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/Availability.h
+c000000004A0BB10100000000000019D8
+t1242280193
+s6616
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/objc/message.h
+c000000004A0BA80F00000000000017F1
+t1242277903
+s6129
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/objc/runtime.h
+c000000004A0BA80F0000000000004FE4
+t1242277903
+s20452
+
+N/Users/J1NEIDIG/Documents/MTConnect/Background.png
+c000000004C444C9A0000000000022269
+t1279544474
+s139881
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m
+c000000004B118289000000000000077E
+t1259438729
+s1918
+i"ManagedObjectFetchedPropertyDisplayer.h"
+i"NSArray-Set.h"
+i"ManagedObjectEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.h
+c000000004B1182890000000000000416
+t1259438729
+s1046
+i<CoreData/CoreData.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m
+c000000004C40A9240000000000000D12
+t1279306020
+s3346
+i"Hero.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.h
+c000000004B5A7DFC0000000000000363
+t1264221692
+s867
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m
+c000000004BB26F6D0000000000003F8F
+t1269985133
+s16271
+i"HeroListViewController.h"
+i"SuperDBAppDelegate.h"
+i"ManagedObjectEditor.h"
+i"Hero.h"
+i"ManagedObjectEditor-SuperDB.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.xib
+c000000004C4451FF0000000000006D6D
+t1279545855
+s28013
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.h
+c000000004B1182890000000000000221
+t1259438729
+s545
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m
+c000000004BB1F9600000000000000E26
+t1269954912
+s3622
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.h
+c000000004B11828900000000000001F6
+t1259438729
+s502
+i<UIKit/UIKit.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m
+c000000004B1182890000000000001383
+t1259438729
+s4995
+i"ManagedObjectColorEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.h
+c000000004B1182890000000000000165
+t1259438729
+s357
+i<Foundation/Foundation.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m
+c000000004B1182890000000000000BE3
+t1259438729
+s3043
+i"ManagedObjectDateEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.h
+c000000004B11828900000000000000E4
+t1259438729
+s228
+i"ManagedObjectEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m
+c000000004C40A5F60000000000001D19
+t1279305206
+s7449
+i"ManagedObjectEditor-SuperDB.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.h
+c000000004B1182890000000000000262
+t1259438729
+s610
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m
+c000000004C40A87100000000000039B5
+t1279305841
+s14773
+i"ManagedObjectEditor.h"
+i"NSArray-NestedArrays.h"
+i"HeroValueDisplay.h"
+i"ManagedObjectAttributeEditor.h"
+i"NSManagedObject-IsNew.h"
+i"NSArray-Set.h"
+i"SuperDBAppDelegate.h"
+i<objc/runtime.h>
+i<objc/message.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.h
+c000000004B118289000000000000011C
+t1259438729
+s284
+i<UIKit/UIKit.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m
+c000000004B1182890000000000000B9C
+t1259438729
+s2972
+i"ManagedObjectSingleSelectionListEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.h
+c000000004B11828900000000000000C9
+t1259438729
+s201
+i<UIKit/UIKit.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m
+c000000004BB26F6D0000000000000C59
+t1269985133
+s3161
+i"ManagedObjectStringEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.h
+c000000004B118289000000000000037E
+t1259438729
+s894
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m
+c000000004B1182890000000000001146
+t1259438729
+s4422
+i"SuperDBAppDelegate.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.h
+c000000004B1182890000000000000060
+t1259438729
+s96
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m
+c000000004B118289000000000000050B
+t1259438729
+s1291
+i"UIColorRGBValueTransformer.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/Default.png
+c000000004C3F733900000000000177A0
+t1279226681
+s96160
+
+N/Users/J1NEIDIG/Documents/MTConnect/Entitlements.plist
+c000000004C44556B00000000000000E1
+t1279546731
+s225
+
+N/Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.h
+c000000004B1182890000000000000247
+t1259438729
+s583
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m
+c000000004B11828900000000000003BC
+t1259438729
+s956
+i"HeroValueDisplay.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/MainWindow.xib
+c000000004C40A7A400000000000079E4
+t1279305636
+s31204
+
+N/Users/J1NEIDIG/Documents/MTConnect/ManagedObjectFetchedPropertyDisplayer.h
+c000000004B1182890000000000000120
+t1259438729
+s288
+i<Foundation/Foundation.h>
+i"ManagedObjectAttributeEditor.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.h
+c000000004B11828900000000000001BA
+t1259438729
+s442
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m
+c000000004B1182890000000000000224
+t1259438729
+s548
+i"NSArray-NestedArrays.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.h
+c000000004B1182890000000000000096
+t1259438729
+s150
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m
+c000000004B11828900000000000001F7
+t1259438729
+s503
+i"NSArray-Set.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.h
+c000000004B11828900000000000000DB
+t1259438729
+s219
+i<Foundation/Foundation.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m
+c000000004B11828900000000000000BC
+t1259438729
+s188
+i"NSManagedObject-IsNew.h"
+
+N/Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld
+c000000004C40A54A00000000000000CC
+t1279305034
+s204
+
+N/Users/J1NEIDIG/Documents/MTConnect/SuperDB_Prefix.pch
+c000000004B1182890000000000000162
+t1259438729
+s354
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+t1279546947
+s612
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app.dSYM
+t1279546946
+s102
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Background.png
+t1279546942
+s139599
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Default.png
+t1279546942
+s86671
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Entitlements.plist
+t1279546942
+s62
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/HeroListViewController.nib
+t1279546941
+s2910
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Info.plist
+t1279546940
+s699
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect
+t1279546946
+s90340
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MainWindow.nib
+t1279546941
+s3008
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/PkgInfo
+t1279546940
+s8
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/ResourceRules.plist
+t1279546940
+s485
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/SuperDB.momd
+t1279546943
+s204
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision
+t1279546946
+s7255
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/icon.png
+t1279546942
+s6838
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/name_icon.png
+t1279546941
+s294
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/secret_icon.png
+t1279546941
+s266
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app.dSYM
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/Background.png
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/Default.png
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/HeroListViewController.nib
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/Info.plist
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/MainWindow.nib
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/PkgInfo
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/ResourceRules.plist
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/SuperDB
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/SuperDB.momd
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/icon.png
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/name_icon.png
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/secret_icon.png
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent
+t1279546946
+s329
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/Hero.o
+t1279546945
+s19036
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroListViewController.o
+t1279546944
+s80572
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroValueDisplay.o
+t1279546944
+s12180
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/MTConnect.LinkFileList
+c000000004C44563C0000000000000963
+t1279546940
+s2403
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectAttributeEditor.o
+t1279546945
+s47188
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectColorEditor.o
+t1279546945
+s44804
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectDateEditor.o
+t1279546945
+s45488
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor-SuperDB.o
+t1279546946
+s41076
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor.o
+t1279546945
+s62920
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectFetchedPropertyDisplayer.o
+t1279546946
+s40232
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectSingleSelectionListEditor.o
+t1279546945
+s41656
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectStringEditor.o
+t1279546945
+s42060
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-NestedArrays.o
+t1279546944
+s7620
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-Set.o
+t1279546946
+s8000
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSManagedObject-IsNew.o
+t1279546946
+s10284
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/SuperDB.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/SuperDBAppDelegate.o
+t1279546944
+s49376
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/UIColorRGBValueTransformer.o
+t1279546946
+s11612
+
+N/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/main.o
+t1279546944
+s6432
+
+N/Users/J1NEIDIG/Documents/MTConnect/icon.png
+c000000004C2376950000000000001A43
+t1277392533
+s6723
+
+N/Users/J1NEIDIG/Documents/MTConnect/main.m
+c000000004B118289000000000000015C
+t1259438729
+s348
+i<UIKit/UIKit.h>
+
+N/Users/J1NEIDIG/Documents/MTConnect/name_icon.png
+c000000004C406367000000000000011A
+t1279288167
+s282
+
+N/Users/J1NEIDIG/Documents/MTConnect/secret_icon.png
+c000000004C40623F0000000000000118
+t1279287871
+s280
+
+N/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision
+c000000004C4453DB0000000000001C57
+t1279546331
+s7255
+
+N/var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch.gch
+t1279546943
+s8704828
+
+NSuperDB-Info.plist
+c000000004C4455440000000000000395
+t1279546692
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301239740#301239740#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+s301239746.844801
+e301239747.212517
+r1
+xCodeSign
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+lSLF07#2@50"CodeSign build/Distribution-iphoneos/MTConnect.app301239746#301239747#0(0"0(0#0#77"/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app4300911832#670"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: ITAMCO" --resource-rules=/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/ResourceRules.plist --entitlements /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app0#
+
+CCodeSign /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app
+r0
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/Hero.o /Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239745.700789
+e301239745.808983
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/Hero.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m301239745#301239745#0(0"0(0#0#50"/Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m4300911832#1889"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/Hero.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/Hero.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroListViewController.o /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239744.166800
+e301239744.584314
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroListViewController.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m301239744#301239744#0(0"0(0#0#68"/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m4300911832#1925"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroListViewController.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroValueDisplay.o /Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239744.639800
+e301239744.699973
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroValueDisplay.o
+x/Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m301239744#301239744#0(0"0(0#0#54"/Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m4300911832#1905"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/HeroValueDisplay.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/HeroValueDisplay.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectAttributeEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239745.084426
+e301239745.240459
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectAttributeEditor.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m301239745#301239745#0(0"0(0#0#74"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m4300911832#1937"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectAttributeEditor.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectAttributeEditor.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectColorEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239745.809080
+e301239746.003119
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectColorEditor.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m301239745#301239746#0(0"0(0#0#70"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m4300911832#1929"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectColorEditor.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectColorEditor.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectDateEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239745.365668
+e301239745.541302
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectDateEditor.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m301239745#301239745#0(0"0(0#0#69"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m4300911832#1927"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectDateEditor.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectDateEditor.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor-SuperDB.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239746.210504
+e301239746.393569
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor-SuperDB.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m301239746#301239746#0(0"0(0#0#73"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m4300911832#1935"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor-SuperDB.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor-SuperDB.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239744.700080
+e301239745.084333
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m301239744#301239745#0(0"0(0#0#65"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m4300911832#1919"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectEditor.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectEditor.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectFetchedPropertyDisplayer.o /Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239746.393825
+e301239746.499385
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectFetchedPropertyDisplayer.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m301239746#301239746#0(0"0(0#0#86"/Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m4300911832#1958"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/../ManagedObjectFetchedPropertyDisplayer.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectFetchedPropertyDisplayer.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectSingleSelectionListEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239745.541397
+e301239745.700695
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectSingleSelectionListEditor.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m301239745#301239745#0(0"0(0#0#84"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m4300911832#1957"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectSingleSelectionListEditor.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectSingleSelectionListEditor.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectStringEditor.o /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239745.240555
+e301239745.365575
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectStringEditor.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m301239745#301239745#0(0"0(0#0#71"/Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m4300911832#1931"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/ManagedObjectStringEditor.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/ManagedObjectStringEditor.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-NestedArrays.o /Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239744.584484
+e301239744.639712
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-NestedArrays.o
+x/Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m301239744#301239744#0(0"0(0#0#58"/Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m4300911832#1913"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/NSArray-NestedArrays.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-NestedArrays.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-Set.o /Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239746.122295
+e301239746.210409
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-Set.o
+x/Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m301239746#301239746#0(0"0(0#0#49"/Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m4300911832#1895"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/NSArray-Set.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSArray-Set.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSManagedObject-IsNew.o /Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239746.069411
+e301239746.122151
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSManagedObject-IsNew.o
+x/Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m301239746#301239746#0(0"0(0#0#59"/Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m4300911832#1915"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/NSManagedObject-IsNew.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/NSManagedObject-IsNew.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/SuperDBAppDelegate.o /Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239744.002308
+e301239744.166630
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/SuperDBAppDelegate.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m301239744#301239744#0(0"0(0#0#64"/Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m4300911832#1917"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/SuperDBAppDelegate.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/SuperDBAppDelegate.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/UIColorRGBValueTransformer.o /Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239746.003214
+e301239746.069313
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/UIColorRGBValueTransformer.o
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m301239746#301239746#0(0"0(0#0#72"/Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m4300911832#1933"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/Classes/UIColorRGBValueTransformer.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/UIColorRGBValueTransformer.o0#
+
+CCompileC build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/main.o /Users/J1NEIDIG/Documents/MTConnect/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239743.862526
+e301239744.002216
+r1
+xCompileC
+xbuild/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/main.o
+x/Users/J1NEIDIG/Documents/MTConnect/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/J1NEIDIG/Documents/MTConnect/main.m301239743#301239744#0(0"0(0#0#42"/Users/J1NEIDIG/Documents/MTConnect/main.m4300911832#1881"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -include /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch -c /Users/J1NEIDIG/Documents/MTConnect/main.m -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.xib
+s301239741.428366
+e301239741.834462
+r1
+xCompileXIB
+x/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.xib
+lSLF07#2@45"CompileXIB Classes/HeroListViewController.xib301239741#301239741#0(0"0(0#0#70"/Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.xib4300911832#498"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/HeroListViewController.nib /Users/J1NEIDIG/Documents/MTConnect/Classes/HeroListViewController.xib0#
+
+CCompileXIB /Users/J1NEIDIG/Documents/MTConnect/MainWindow.xib
+s301239740.971184
+e301239741.428290
+r1
+xCompileXIB
+x/Users/J1NEIDIG/Documents/MTConnect/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib301239740#301239741#0(0"0(0#0#50"/Users/J1NEIDIG/Documents/MTConnect/MainWindow.xib4300911832#466"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MainWindow.nib /Users/J1NEIDIG/Documents/MTConnect/MainWindow.xib0#
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Background.png Background.png
+s301239742.257303
+e301239742.772183
+r1
+xCopyPNGFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Background.png
+xBackground.png
+lSLF07#2@83"CopyPNGFile build/Distribution-iphoneos/MTConnect.app/Background.png Background.png301239742#301239742#0(0"0(0#0#50"/Users/J1NEIDIG/Documents/MTConnect/Background.png4300911832#568"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/J1NEIDIG/Documents/MTConnect/Background.png /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Background.png0#
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Default.png Default.png
+s301239741.981986
+e301239742.216506
+r1
+xCopyPNGFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Default.png
+xDefault.png
+lSLF07#2@77"CopyPNGFile build/Distribution-iphoneos/MTConnect.app/Default.png Default.png301239741#301239742#0(0"0(0#0#47"/Users/J1NEIDIG/Documents/MTConnect/Default.png4300911832#562"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/J1NEIDIG/Documents/MTConnect/Default.png /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Default.png0#
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/icon.png icon.png
+s301239742.216711
+e301239742.257193
+r1
+xCopyPNGFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/icon.png
+xicon.png
+lSLF07#2@71"CopyPNGFile build/Distribution-iphoneos/MTConnect.app/icon.png icon.png301239742#301239742#0(0"0(0#0#44"/Users/J1NEIDIG/Documents/MTConnect/icon.png4300911832#556"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/J1NEIDIG/Documents/MTConnect/icon.png /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/icon.png0#
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/name_icon.png name_icon.png
+s301239741.834549
+e301239741.955185
+r1
+xCopyPNGFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/name_icon.png
+xname_icon.png
+lSLF07#2@81"CopyPNGFile build/Distribution-iphoneos/MTConnect.app/name_icon.png name_icon.png301239741#301239741#0(0"0(0#0#49"/Users/J1NEIDIG/Documents/MTConnect/name_icon.png4300911832#566"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/J1NEIDIG/Documents/MTConnect/name_icon.png /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/name_icon.png0#
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/secret_icon.png secret_icon.png
+s301239741.955270
+e301239741.981897
+r1
+xCopyPNGFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/secret_icon.png
+xsecret_icon.png
+lSLF07#2@85"CopyPNGFile build/Distribution-iphoneos/MTConnect.app/secret_icon.png secret_icon.png301239741#301239741#0(0"0(0#0#51"/Users/J1NEIDIG/Documents/MTConnect/secret_icon.png4300911832#570"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/J1NEIDIG/Documents/MTConnect/secret_icon.png /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/secret_icon.png0#
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/Background.png Background.png
+r0
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/Default.png Default.png
+r0
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/icon.png icon.png
+r0
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/name_icon.png name_icon.png
+r0
+
+CCopyPNGFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/secret_icon.png secret_icon.png
+r0
+
+CCopyPlistFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Entitlements.plist Entitlements.plist
+s301239742.772384
+e301239742.933951
+r1
+xCopyPlistFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Entitlements.plist
+xEntitlements.plist
+lSLF07#2@23"Copy Entitlements.plist301239742#301239742#0(0"0(0#0#54"/Users/J1NEIDIG/Documents/MTConnect/Entitlements.plist4300911832#382"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Entitlements.plist --outdir /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app0#
+
+CCpResource build/Distribution-iphoneos/MTConnect.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+s301239740.904561
+e301239740.971059
+r1
+xCpResource
+xbuild/Distribution-iphoneos/MTConnect.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist301239740#301239740#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist4300911832#504"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app0#
+
+CCpResource build/Distribution-iphoneos/SuperDB.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CDataModelVersionCompile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/SuperDB.momd /Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld
+s301239743.774407
+e301239743.862431
+r1
+xDataModelVersionCompile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/SuperDB.momd
+x/Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld
+lSLF07#2@99"DataModelVersionCompile build/Distribution-iphoneos/MTConnect.app/SuperDB.momd SuperDB.xcdatamodeld301239743#301239743#0(0"0(0#0#56"/Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld4300911832#343"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc /Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/SuperDB.momd0#
+
+CDataModelVersionCompile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/SuperDB.momd /Users/J1NEIDIG/Documents/MTConnect/SuperDB.xcdatamodeld
+r0
+
+CGenerateDSYMFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app.dSYM /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect
+s301239746.773591
+e301239746.835387
+r1
+xGenerateDSYMFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app.dSYM
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect
+lSLF07#2@115"GenerateDSYMFile build/Distribution-iphoneos/MTConnect.app.dSYM build/Distribution-iphoneos/MTConnect.app/MTConnect301239746#301239746#0(0"0(0#0#87"/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect4300911832#373"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect -o /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app.dSYM0#
+
+CGenerateDSYMFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app.dSYM /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/SuperDB
+r0
+
+CLd /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect normal armv6
+s301239746.499477
+e301239746.773500
+r1
+xLd
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect
+xnormal
+xarmv6
+lSLF07#2@92"Link /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect301239746#301239746#0(0"0(0#0#0"4300911832#939"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/Objects-normal/armv6/MTConnect.LinkFileList -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/MTConnect0#
+
+CLd /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/SuperDB normal armv6
+r0
+
+CProcessInfoPlistFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Info.plist SuperDB-Info.plist
+s301239740.907445
+e301239740.937027
+r1
+xProcessInfoPlistFile
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Info.plist
+xSuperDB-Info.plist
+lSLF07#2@26"Process SuperDB-Info.plist301239740#301239740#0(0"0(0#0#54"/Users/J1NEIDIG/Documents/MTConnect/SuperDB-Info.plist4300911832#577"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SuperDB-Info.plist -genpkginfo /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/ResourceRules.plist -o /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/Info.plist SuperDB-Info.plist
+r0
+
+CProcessPCH /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch.gch SuperDB_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s301239742.934077
+e301239743.774296
+r1
+xProcessPCH
+x/var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch.gch
+xSuperDB_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile SuperDB_Prefix.pch301239742#301239743#0(0"0(0#0#54"/Users/J1NEIDIG/Documents/MTConnect/SuperDB_Prefix.pch4300911832#1771"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-generated-files.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-own-target-headers.hmap -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-all-target-headers.hmap -iquote /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect-project-headers.hmap -F/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/include -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources/armv6 -I/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/DerivedSources -c /Users/J1NEIDIG/Documents/MTConnect/SuperDB_Prefix.pch -o /var/folders/YB/YB5cIEk4GuW6CNeJCQfRCU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperDB_Prefix-frfknfyskfpuhegxolfesacmikhk/SuperDB_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision" /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision
+s301239746.835491
+e301239746.839730
+r1
+xProcessProductPackaging
+x/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision
+lSLF07#2@204"ProcessProductPackaging "/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision" build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision301239746#301239746#0(0"0(0#0#102"/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision4300911832#429"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision" -o /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/J1NEIDIG/Library/MobileDevice/Provisioning Profiles/91F71AA2-4B20-4832-80FB-E50C182FC0D0.mobileprovision" /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/SuperDB.xcent
+r0
+
+CProcessProductPackaging /Users/J1NEIDIG/Documents/MTConnect/Entitlements.plist /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent
+s301239746.843121
+e301239746.844748
+r1
+xProcessProductPackaging
+x/Users/J1NEIDIG/Documents/MTConnect/Entitlements.plist
+x/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent
+lSLF07#2@118"ProcessProductPackaging Entitlements.plist build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent301239746#301239746#0(0"0(0#0#111"/Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent4300911832#405"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Users/J1NEIDIG/Documents/MTConnect/Entitlements.plist -entitlements -format xml -o /Users/J1NEIDIG/Documents/MTConnect/build/MTConnect.build/Distribution-iphoneos/MTConnect.build/MTConnect.xcent0#
+
+CTouch /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+s301239746.839788
+e301239746.843045
+r1
+xTouch
+x/Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app
+lSLF07#2@83"Touch /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app301239746#301239746#0(0"0(0#0#0"4300911832#267"    cd /Users/J1NEIDIG/Documents/MTConnect    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/MTConnect.app0#
+
+CTouch /Users/J1NEIDIG/Documents/MTConnect/build/Distribution-iphoneos/SuperDB.app
+r0
+
